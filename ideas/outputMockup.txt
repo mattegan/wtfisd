@@ -1,0 +1,33 @@
+- everything is shown under the date that it is due
+	- sorting is done by date, incomplete/complete, time (anytimes are first), alphabetical
+- lists entire week plus one day (8 days)
+	- (all the way until the next occurance of the weekday that is today)
+
+
+- 30 overdue pieces of shit
+= today
+	incomplete
+	- (qpzo) 11:59pm - English Blog Post
+						Check english website for blog content description
++ tomorrow
+	incomplete
+	- (aurp) 11:00am - ECE 2020 Reading To Page 96ish
+	- (qzqp)  5:00pm - Physics Webassign
+					 	CH3 HW2, ask Chris for some help
+	complete
+	- (qpzo) 11:59pm - English Blog Post
+						Check english website for blog content description
++ 27th Sunday
++ 28th Monday
+	incomplete
+	- (qebf)	  * - Lunch With Colin
+	- (qpro)      * - Physics Test Studying
+						Try to meet with Sarah, review chapter 7
+	- (peqo)	  * - Steak Dinner
+	- (auqp) 7:00pm - Physics Test
++ 29th Tuesday
+	complete
+	- (apdo)	  * - Laundry
++ 30th Wednesday
++ 31st Thursday
++  1st Friday
