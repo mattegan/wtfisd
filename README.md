@@ -1,18 +1,19 @@
 wtfisd
----
 ######when the fuck is shit due?
 ######a simple deadline manager aimed at people with due-dates
 
 ##Use
----
 adding a task is as easy as making a lame cliché, like "easy as pie"
+
     matt$ wtfisd add 9 tomorrow call mom+I think she loves me or something
 
 if you're one of those totally spontaneous people, feel free to add a task that's due whenever or at no specific time on a specific day
+
     matt$ wtfisd add * friday lanudry+everything is getting kind of smelly
     matt$ wtfisd add * * hit the gym
 
 and when you're ready, figure all your shit out by running the list command
+
     matt$ wtfisd list
     - 0 overdue
     = today
@@ -37,6 +38,7 @@ and when you're ready, figure all your shit out by running the list command
                              finish chapters 8, 9, 10
 
 to mark an item as complete, or to mark it as incomplete because you forgot something, use the done and jk commands
+
     matt$ wtfisd done uqdz
     matt$ wtfisd done sqdd
 
