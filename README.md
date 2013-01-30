@@ -1,6 +1,5 @@
-wtfisd
-######when the fuck is shit due?
-######a simple deadline manager aimed at people with due-dates
+#wtfisd
+######when the fuck is shit due? - a simple deadline manager aimed at people with due-dates
 
 ##Use
 adding a task is as easy as making a lame cliché, like "easy as pie"
